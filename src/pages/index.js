@@ -7,9 +7,9 @@ export default function Home() {
     <div>
        <Main>
       <div class="left">
-        <img className="avatar" src="../../profile.jpg"></img>
+        <img className="avatar" src="../../profile.jpeg"></img>
         <h1>
-          I am Joe Doe, I am new to gatsby.js
+          This is a test, trying out gatsby.js
         </h1>
       </div>
 
